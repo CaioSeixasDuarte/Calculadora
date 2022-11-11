@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\caio\Programação\DIO\DotNET\bin\Debug\net7.0\DotNET.exe
+C:\Users\HP\Documents\caio\Programação\DIO\DotNET\bin\Debug\net7.0\DotNET.deps.json
+C:\Users\HP\Documents\caio\Programação\DIO\DotNET\bin\Debug\net7.0\DotNET.runtimeconfig.json
+C:\Users\HP\Documents\caio\Programação\DIO\DotNET\bin\Debug\net7.0\DotNET.dll
+C:\Users\HP\Documents\caio\Programação\DIO\DotNET\bin\Debug\net7.0\DotNET.pdb
+C:\Users\HP\Documents\caio\Programação\DIO\DotNET\obj\Debug\net7.0\DotNET.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\caio\Programação\DIO\DotNET\obj\Debug\net7.0\DotNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\caio\Programação\DIO\DotNET\obj\Debug\net7.0\DotNET.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\caio\Programação\DIO\DotNET\obj\Debug\net7.0\DotNET.AssemblyInfo.cs
+C:\Users\HP\Documents\caio\Programação\DIO\DotNET\obj\Debug\net7.0\DotNET.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\caio\Programação\DIO\DotNET\obj\Debug\net7.0\DotNET.dll
+C:\Users\HP\Documents\caio\Programação\DIO\DotNET\obj\Debug\net7.0\refint\DotNET.dll
+C:\Users\HP\Documents\caio\Programação\DIO\DotNET\obj\Debug\net7.0\DotNET.pdb
+C:\Users\HP\Documents\caio\Programação\DIO\DotNET\obj\Debug\net7.0\DotNET.genruntimeconfig.cache
+C:\Users\HP\Documents\caio\Programação\DIO\DotNET\obj\Debug\net7.0\ref\DotNET.dll
